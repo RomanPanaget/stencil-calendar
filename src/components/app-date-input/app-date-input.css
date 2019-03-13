@@ -1,0 +1,23 @@
+.full-height {
+  height: 100%
+}
+
+.mid-height {
+  height: 50%
+}
+
+#select-date-label {
+  font-family: 'Pacifico', Times, serif;
+  font-size: 43px;
+  font-weight: 700;
+  color: var(--ion-color-primary)
+}
+
+.dark {
+  background-color: var(--ion-color-dark)
+}
+
+#input-item {
+
+  font-weight: 600;
+}
